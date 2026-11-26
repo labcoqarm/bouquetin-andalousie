@@ -1,0 +1,8 @@
+donnees/
+sorties/
+docs/
+__pycache__/
+*.pdf
+*.zip
+.env
+.Rhistory

@@ -1,0 +1,8 @@
+variable,libelle,unite,mediane_presences,mediane_fond,auc,p_mann_whitney,n_presences,n_fond
+P_moyen,"P, productivité cumulée (H1)",NDVI cumulé,4.3921,4.4949,0.47438,0.0095709,1128,3491
+M_moyen,"M, productivité minimale (H2)",NDVI,0.26048,0.24991,0.53004,0.0023843,1128,3491
+V_moyen,"V, variabilité (H3)",coefficient de variation,0.22094,0.26851,0.31666,9.4002e-77,1128,3491
+DHI_moyen,DHI synthétique,sans unité,0.46398,0.44881,0.52556,0.0097372,1128,3491
+altitude,Altitude,m,863.27,453.42,0.73718,3.8162e-127,1128,3491
+pente,Pente,degrés,8.5418,4.4677,0.72981,1.7105e-119,1128,3491
+dist_routes,Distance aux routes principales,m,6893.9,5916.3,0.54058,4.0652e-05,1128,3491
