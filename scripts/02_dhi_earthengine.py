@@ -33,7 +33,7 @@ _, profil_ref = lire_tif(REFERENCE)
 
 
 def masquer_nuages(img):
-    scl = img.select("SCL")  # 3 ombre, 8-9 nuages, 10 cirrus
+    scl = img.select("SCL") # 3 ombre, 8-9 nuages, 10 cirrus
     return img.updateMask(scl.neq(3).And(scl.neq(8)).And(scl.neq(9)).And(scl.neq(10)))
 
 

@@ -30,7 +30,7 @@ DOSSIER_GBIF = os.path.join(BRUTES, "gbif")
 COUCHES = os.path.join(SORTIES, "couches.gpkg")
 REFERENCE = os.path.join(SORTIES, "reference_250m.tif")
 
-CRS = "EPSG:25830"  # ETRS89 / UTM 30N, distances en mètres
+CRS = "EPSG:25830" # ETRS89 / UTM 30N, distances en mètres
 PIXEL = 250
 ANNEES = list(range(2017, 2025))
 NODATA = -9999.0
